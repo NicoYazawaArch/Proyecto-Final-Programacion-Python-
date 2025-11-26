@@ -77,6 +77,6 @@ Habitaciones: Validación contra lista de habitaciones reales del hostal.
 
 ✒️ Autor
 
-Estudiante de Ingeniria Informática - Trabajo Práctico de Programación - [UNDAV]
+Estudiante de Ingeniria Informática: Nicolas Corpus - Trabajo Práctico de Programación - [UNDAV]
 
 Este proyecto es de fines académicos.
